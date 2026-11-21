@@ -1,5 +1,7 @@
 # 🌟 Lumina — AI Chat powered by Google Gemini
 
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=white)
+
 A production-quality AI chatbot with React + Vite frontend and Flask backend,
 featuring real-time streaming responses, multi-conversation history, and a
 premium dark UI.
